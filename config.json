@@ -1,0 +1,1504 @@
+{
+  "all": [
+    {
+      "src": "label:\"Containers\"",
+      "dest": "label:\"容器\""
+    },
+    {
+      "src": "label:\"Images\"",
+      "dest": "label:\"映象\""
+    },
+    {
+      "src": "label:\"Volumes\"",
+      "dest": "label:\"卷櫃\""
+    },
+    {
+      "src": "label:\"Builds\"",
+      "dest": "label:\"構建\""
+    },
+    {
+      "src": "label:\"Docker Scout\"",
+      "dest": "label:\"監控\""
+    },
+    {
+      "src": "title:\"Containers\"",
+      "dest": "title:\"容器\""
+    },
+    {
+      "src": "title:\"Images\"",
+      "dest": "title:\"映象\""
+    },
+    {
+      "src": "title:\"Volumes\"",
+      "dest": "title:\"卷櫃\""
+    },
+    {
+      "src": "title:\"Builds\"",
+      "dest": "title:\"構建\""
+    },
+    {
+      "src": "title:\"Docker Scout\"",
+      "dest": "title:\"監控\""
+    },
+    {
+      "src": "children:\"Containers\"",
+      "dest": "children:\"容器\""
+    },
+    {
+      "src": "children:\"Images\"",
+      "dest": "children:\"映象\""
+    },
+    {
+      "src": "children:\"Volumes\"",
+      "dest": "children:\"卷櫃\""
+    },
+    {
+      "src": "children:\"Builds\"",
+      "dest": "children:\"構建\""
+    },
+    {
+      "src": "children:\"Docker Scout\"",
+      "dest": "children:\"監控\""
+    },
+    {
+      "src": "children:\"Walkthroughs\"",
+      "dest": "children:\"演練\""
+    },
+    {
+      "src": "\"Extensions\"",
+      "dest": "\"擴充套件\""
+    },
+    {
+      "src": "\"My Extensions\",",
+      "dest": "\"我的擴充套件\","
+    },
+    {
+      "src": "\"Manage Extensions\":\"Extensions Marketplace\"",
+      "dest": "\"管理擴充套件\":\"擴充套件市場\""
+    },
+    {
+      "src": "title:\"Add Extensions\"",
+      "dest": "title:\"新增擴充套件\""
+    },
+    {
+      "src": "title:\"No extensions installed yet\",content:\"You can install extensions from the marketplace.\"",
+      "dest": "title:\"尚未安裝任何擴充套件\",content:\"您可以從擴充套件市場安裝擴充套件。\""
+    },
+    {
+      "src": "children:\"Start building your extension with the following command:\"",
+      "dest": "children:\"使用以下命令開始構建擴充套件：\""
+    },
+    {
+      "src": "children:\"If you've already built an extension, tell us about your experience\"",
+      "dest": "children:\"如果您已經構建了擴充套件程式，請告訴我們您的體驗\""
+    },
+    {
+      "src": "description:\"Docker Extensions let you use third-party tools within Docker Desktop to extend its functionality.\"",
+      "dest": "description:\"Docker擴充套件 允許您在 Docker Desktop 中使用第三方工具來擴充套件其功能。\""
+    },
+    {
+      "src": "label:\"Enable Docker Extensions\"",
+      "dest": "label:\"啟用 Docker 擴充套件\""
+    },
+    {
+      "src": "children:\"Turning this option off will uninstall all extensions and disable all extension features.\"",
+      "dest": "children:\"關閉此選項將解除安裝所有擴充套件並禁用所有擴充套件功能。\""
+    },
+    {
+      "src": "label:\"Allow only extensions distributed through the Docker Marketplace\"",
+      "dest": "label:\"僅允許透過 Docker Marketplace 分發的擴充套件\""
+    },
+    {
+      "src": "children:\"This will prevent the ability to install any other extension via the Extension SDK tools.\"",
+      "dest": "children:\"這將阻止透過擴充套件 SDK 工具安裝任何其他擴充套件。\""
+    },
+    {
+      "src": "label:\"Browse\"",
+      "dest": "label:\"瀏覽\""
+    },
+    {
+      "src": "label:\"Create\"",
+      "dest": "label:\"建立\""
+    },
+    {
+      "src": "label:\"Settings\"",
+      "dest": "label:\"設定\""
+    },
+    {
+      "src": "children:\"Create\"",
+      "dest": "children:\"建立\""
+    },
+    {
+      "src": "c=\"Browse\"",
+      "dest": "c=\"瀏覽\""
+    },
+    {
+      "src": "u=\"Manage\"",
+      "dest": "u=\"管理\""
+    },
+    {
+      "src": "label:\"Show Docker Extensions system containers\"",
+      "dest": "label:\"顯示 Docker 擴充套件系統容器\""
+    },
+    {
+      "src": "children:\"Show Docker Desktop Extensions internal containers when using Docker commands.\"",
+      "dest": "children:\"使用 Docker 命令時顯示 Docker Desktop 擴充套件 內部容器。\""
+    },
+    {
+      "src": "\"Container CPU usage\"",
+      "dest": "\"容器CPU使用率\""
+    },
+    {
+      "src": "\"Container memory usage\"",
+      "dest": "\"容器記憶體使用率\""
+    },
+    {
+      "src": "\"No containers are running.\"",
+      "dest": "\"沒有容器在執行。\""
+    },
+    {
+      "src": "\"Only show running containers\"",
+      "dest": "\"只顯示執行中的容器\""
+    },
+    {
+      "src": "title:\"Your running containers show up here\"",
+      "dest": "title:\"正在執行的容器將顯示在此處\""
+    },
+    {
+      "src": "title:\"Columns\"",
+      "dest": "title:\"列\""
+    },
+    {
+      "src": "\"Show charts\"",
+      "dest": "\"顯示圖表\""
+    },
+    {
+      "src": "\"Resource usage\"",
+      "dest": "\"資源利用\""
+    },
+    {
+      "src": "description:\"A container is an isolated environment for your code\"",
+      "dest": "description:\"容器是程式碼的隔離環境\""
+    },
+    {
+      "src": "children:\"View more in the Learning center\"",
+      "dest": "children:\"在學習中心檢視更多資訊\""
+    },
+    {
+      "src": "title:\"Images are used to run containers\",description:\"You can either build an image from a Dockerfile, or download an existing image to run\",buttonTitle:\"Search images to run\"",
+      "dest": "title:\"映象用於執行容器\",description:\"您可以從 Dockerfile 構建映象，也可以下載現有映象以執行\",buttonTitle:\"搜尋要執行的映象\""
+    },
+    {
+      "src": "label:b,value:\"local\"",
+      "dest": "label:\"本地\",value:\"local\""
+    },
+    {
+      "src": "label:\"Hub\",value:\"hub\"",
+      "dest": "label:\"中心\",value:\"hub\""
+    },
+    {
+      "src": "children:\"Not connected\"",
+      "dest": "children:\"未連線\""
+    },
+    {
+      "src": "children:\"You can do more when you connect to Hub\"",
+      "dest": "children:\"連線到中心後，您可以執行更多操作\""
+    },
+    {
+      "src": "children:\"Store and backup your images remotely\"",
+      "dest": "children:\"遠端儲存和備份您的映象\""
+    },
+    {
+      "src": "children:\"Collaborate with your team\"",
+      "dest": "children:\"與您的團隊協作\""
+    },
+    {
+      "src": "children:\"Unlock vulnerability scanning for greater security\"",
+      "dest": "children:\"解鎖漏洞掃描以提高安全性\""
+    },
+    {
+      "src": "children:\"Connect for free\"",
+      "dest": "children:\"免費連線\""
+    },
+    {
+      "src": "title:\"Containers can use volumes to store data\",description:\"All data in a container is lost once it is removed. Containers use volumes to persist data.\",buttonTitle:\"Create a volume\"",
+      "dest": "title:\"容器可以使用卷櫃來儲存資料\",description:\"容器中的所有資料一旦被刪除，就會丟失。容器使用卷櫃來持久儲存資料。\",buttonTitle:\"建立卷櫃\""
+    },
+    {
+      "src": "Build container images and artifacts from source code.",
+      "dest": "從原始碼構建容器映象和工件。"
+    },
+    {
+      "src": "Import builds",
+      "dest": "匯入構建器"
+    },
+    {
+      "src": "Builder settings",
+      "dest": "構建器設定"
+    },
+    {
+      "src": "title:\"Build history\"",
+      "dest": "title:\"構建歷史\""
+    },
+    {
+      "src": "\"Active builds\",M.length>0",
+      "dest": "\"活躍構建\",M.length>0"
+    },
+    {
+      "src": "title:\"No build record found\"",
+      "dest": "title:\"未找到構建記錄\""
+    },
+    {
+      "src": "children:\"If you can't see your builds here make sure your builder instances are running.\"",
+      "dest": "children:\"如果您在此處看不到您的構建，請確保您的構建器例項正在執行。\""
+    },
+    {
+      "src": "title:\"No active builds\"",
+      "dest": "title:\"沒有活躍的構建\""
+    },
+    {
+      "src": "To start a new build, run the following command in your source code location:",
+      "dest": "若要開始新的構建，請在原始碼位置執行以下命令"
+    },
+    {
+      "src": "children:\"Advanced image analysis with Docker Scout\"",
+      "dest": "children:\"使用 Docker監控 進行高階映象分析\""
+    },
+    {
+      "src": "Understand your application's dependencies, analyze the vulnerabilities, and act quickly with suggested remediation options.",
+      "dest": "瞭解應用程式的依賴關係，分析漏洞，並根據建議的補救選項快速採取行動。"
+    },
+    {
+      "src": "\"General\"",
+      "dest": "\"常規\""
+    },
+    {
+      "src": "\"Resources\"",
+      "dest": "\"資源\""
+    },
+    {
+      "src": "label:\"Docker Engine\"",
+      "dest": "label:\"Docker 引擎\""
+    },
+    {
+      "src": "label:\"Builders\"",
+      "dest": "label:\"構建器\""
+    },
+    {
+      "src": "label:\"Software updates\"",
+      "dest": "label:\"軟體更新\""
+    },
+    {
+      "src": "label:\"Features in development\"",
+      "dest": "label:\"開發中的功能\""
+    },
+    {
+      "src": "label:\"Notifications\"",
+      "dest": "label:\"通知\""
+    },
+    {
+      "src": "\"Advanced\"",
+      "dest": "\"高階\""
+    },
+    {
+      "src": "label:\"File sharing\"",
+      "dest": "label:\"共享\""
+    },
+    {
+      "src": "\"Proxies\"",
+      "dest": "\"代理\""
+    },
+    {
+      "src": "\"Network\"",
+      "dest": "\"網路\""
+    },
+    {
+      "src": "\"WSL integration\"",
+      "dest": "\"WSL 整合\""
+    },
+    {
+      "src": "\"Start Docker Desktop when you sign in to your computer\"",
+      "dest": "\"開機自啟動 Docker Desktop\""
+    },
+    {
+      "src": "label:\"Open Docker Dashboard when Docker Desktop starts\"",
+      "dest": "label:\"啟動時開啟 Docker 面板\""
+    },
+    {
+      "src": "\"Choose theme for Docker Desktop\"",
+      "dest": "\"選擇應用主題\""
+    },
+    {
+      "src": "label:\"Light\"",
+      "dest": "label:\"淺色\""
+    },
+    {
+      "src": "label:\"Dark\"",
+      "dest": "label:\"深色\""
+    },
+    {
+      "src": "label:\"Use system settings\"",
+      "dest": "label:\"跟隨系統\""
+    },
+    {
+      "src": "\"Enable Docker terminal\"",
+      "dest": "\"啟用 Docker 終端\""
+    },
+    {
+      "src": "\"Active subscription required.\"",
+      "dest": "\"需要啟用訂閱。\""
+    },
+    {
+      "src": "\"Include VM in Time Machine backups\"",
+      "dest": "\"將 VM 包含在時間機器備份中\""
+    },
+    {
+      "src": "\"Use Rosetta for x86_64/amd64 emulation on Apple Silicon\"",
+      "dest": "\"使用 Rosetta 在 Arm64 晶片上進行 x86_64/amd64 模擬\""
+    },
+    {
+      "src": "\"Use Virtualization framework\"",
+      "dest": "\"使用虛擬化框架\""
+    },
+    {
+      "src": "\"Uses Virtualization framework for creating and managing Docker Desktop Linux VM in macOS 12.5 and above.\"",
+      "dest": "\"在macOS 12.5及更高版本中，使用虛擬化框架建立和管理Docker Desktop Linux VM。\""
+    },
+    {
+      "src": "\"Choose file sharing implementation for your containers\"",
+      "dest": "\"容器檔案共享實現選擇\""
+    },
+    {
+      "src": "\"Automatically check configuration\"",
+      "dest": "\"自動檢查配置\""
+    },
+    {
+      "src": "\"Regularly checks your configuration to ensure no unexpected changes have been made by another application.\"",
+      "dest": "\"定期檢查您的配置，以確保其他應用程式沒有進行意外更改。\""
+    },
+    {
+      "src": "\"Choose container terminal\"",
+      "dest": "\"選擇容器終端\""
+    },
+    {
+      "src": "label:\"Integrated\"",
+      "dest": "label:\"整合\""
+    },
+    {
+      "src": "label:\"System default\"",
+      "dest": "label:\"系統預設\""
+    },
+    {
+      "src": "\"Determines which terminal is launched when opening the terminal from a container.\"",
+      "dest": "\"確定從容器開啟終端時啟動哪個終端。\""
+    },
+    {
+      "src": "label:\"Enable Docker Debug by default\"",
+      "dest": "label:\"預設啟用 Docker Debug\""
+    },
+    {
+      "src": "children:\"Must be signed in with an active subscription\"",
+      "dest": "children:\"必須使用活動訂閱登入\""
+    },
+    {
+      "src": "label:\"Expose daemon on tcp://localhost:2375 without TLS\"",
+      "dest": "label:\"在沒有 TLS 的情況下在 tcp://localhost:2375 上公開守護程序\""
+    },
+    {
+      "src": "children:\"Exposing daemon on TCP without TLS helps legacy clients connect to the daemon. It also makes yourself vulnerable to remote code execution attacks. Use with caution.\"",
+      "dest": "children:\"在沒有 TLS 的情況下在 TCP 上公開守護程式有助於傳統客戶端連線到守護程式。但它還使自己容易受到遠端程式碼執行攻擊。請謹慎使用。\""
+    },
+    {
+      "src": "label:\"Add the *.docker.internal names to the host's /etc/hosts file (Requires password)\"",
+      "dest": "label:\"將 *.docker.internal 名稱新增到主機的 /etc/hosts 檔案（需要密碼）\""
+    },
+    {
+      "src": "Lets you resolve *.docker.internal DNS names from both the host and your containers.",
+      "dest": "允許您從主機和容器中解析 *.docker.internal DNS 名稱。"
+    },
+    {
+      "src": "label:\"Use containerd for pulling and storing images\"",
+      "dest": "label:\"使用容器拉取和儲存映象\""
+    },
+    {
+      "src": "\"The containerd image store enables native support for multi-platform images, attestations, Wasm, and more.\"",
+      "dest": "\"容器映象儲存支援對多平臺映象、證明、Wasm 等的原生支援。\""
+    },
+    {
+      "src": "label:\"Send usage statistics\"",
+      "dest": "label:\"傳送使用情況統計資訊\""
+    },
+    {
+      "src": "\"Send error reports, system version and language as well as Docker Desktop lifecycle information (e.g., starts, stops, resets).\"",
+      "dest": "\"傳送錯誤報告、系統版本和語言以及 Docker Desktop 生命週期資訊（例如，啟動、停止、重置）。\""
+    },
+    {
+      "src": "label:\"Use Enhanced Container Isolation\"",
+      "dest": "label:\"使用增強的容器隔離\""
+    },
+    {
+      "src": "\"Enhance security by preventing containers from breaching the Linux VM.\"",
+      "dest": "\"透過防止容器破壞 Linux VM 來增強安全性。\""
+    },
+    {
+      "src": "children:\"Must be signed in with a Business subscription\"",
+      "dest": "children:\"必須使用商業訂閱登入\""
+    },
+    {
+      "src": "label:\"Show CLI hints\"",
+      "dest": "label:\"顯示 CLI 提示\""
+    },
+    {
+      "src": "\"Get CLI hints and tips when running Docker commands in the CLI.\"",
+      "dest": "\"在 CLI 中執行 Docker 命令時獲取 CLI 提示和技巧。\""
+    },
+    {
+      "src": "label:\"SBOM indexing\"",
+      "dest": "label:\"SBOM 索引\""
+    },
+    {
+      "src": "children:\"Enable image SBOM indexing.\"",
+      "dest": "children:\"啟用映象 SBOM 索引。\""
+    },
+    {
+      "src": "label:\"Enable background SBOM indexing\"",
+      "dest": "label:\"啟用後臺 SBOM 索引\""
+    },
+    {
+      "src": "children:\"Automatically starts SBOM indexing newly built or pulled images, and when an image is inspected.\"",
+      "dest": "children:\"自動啟動 SBOM 索引新構建或拉取的映像，並在檢查映像時啟動。\""
+    },
+    {
+      "src": "label:\"Enable Scout image analysis\"",
+      "dest": "label:\"啟用 Scout 映象分析\""
+    },
+    {
+      "src": "label:\"Enable background Scout SBOM indexing\"",
+      "dest": "label:\"啟用後臺 Scout SBOM 索引\""
+    },
+    {
+      "src": "\"Automatically start Scout SBOM indexing of newly built or pulled images, and when an image is inspected.\"",
+      "dest": "\"當新構建、拉取以及檢查映象時自動啟動 Scout SBOM 索引。\""
+    },
+    {
+      "src": "children:\"You are using the WSL 2 backend, so resource limits are managed by Windows.\"",
+      "dest": "children:\"你正在使用 WSL 2 後端，因此資源限制由 Windows 管理。\""
+    },
+    {
+      "src": "You can configure limits on the memory, CPU, and swap size allocated to WSL 2 in a",
+      "dest": "您可以在 wsl配置檔案 中配置分配給 WSL2 的記憶體、CPU 和交換大小的限制。"
+    },
+    {
+      "src": "label:\"Disk image location\"",
+      "dest": "label:\"磁碟映象位置\""
+    },
+    {
+      "src": "variant:\"contained\",children:\"Browse\"",
+      "dest": "variant:\"contained\",children:\"瀏覽\""
+    },
+    {
+      "src": "children:[\"Resource Saver\"",
+      "dest": "children:[\"資源節省\""
+    },
+    {
+      "src": "label:\"Enable Resource Saver\"",
+      "dest": "label:\"啟用資源節省程式\""
+    },
+    {
+      "src": "children:\"Reduces CPU and memory utilization when no containers are running. Exit from Resource Saver mode happens automatically when containers are started.\"",
+      "dest": "children:\"在沒有容器執行時降低 CPU 和記憶體利用率。當容器啟動時，會自動退出資源節省模式。\""
+    },
+    {
+      "src": "children:\"Use the slider to set the duration of time between no containers running and Docker Desktop entering Resource Saver mode.\"",
+      "dest": "children:\"使用滑塊設定無容器執行和 Docker Desktop 進入資源節省模式之間的持續時間。\""
+    },
+    {
+      "src": "Docker Desktop automatically detects and uses the system proxy. Alternatively, the proxy server can be manually specified.",
+      "dest": "Docker Desktop 會自動檢測並使用系統代理。或者可以手動指定代理伺服器。"
+    },
+    {
+      "src": "The supported proxies are HTTP/HTTPS and SOCKS5.",
+      "dest": "支援的代理是 HTTP/HTTPS 和 SOCKS5。"
+    },
+    {
+      "src": "children:\"Manual proxy configuration\"",
+      "dest": "children:\"手動代理配置\""
+    },
+    {
+      "src": "helperText:\"Example: registry-1.docker.com,*.docker.com,10.0.0.0/8\"",
+      "dest": "helperText:\"示例：registry-1.docker.com，*.docker.com，10.0.0.0/8\""
+    },
+    {
+      "src": "label:\"Web Server (HTTP)\"",
+      "dest": "label:\"Web 伺服器 （HTTP）\""
+    },
+    {
+      "src": "label:\"Secure Web Server (HTTPS)\"",
+      "dest": "label:\"安全的 Web 伺服器 （HTTPS）\""
+    },
+    {
+      "src": "label:\"Bypass proxy settings for these hosts & domains\"",
+      "dest": "label:\"繞過這些主機和域的代理設定\""
+    },
+    {
+      "src": "children:\"Configure the way Docker containers interact with the network\"",
+      "dest": "children:\"配置 Docker 容器與網路互動的方式\""
+    },
+    {
+      "src": "default: 192.168.65.0/24",
+      "dest": "預設: 192.168.65.0/24"
+    },
+    {
+      "src": "children:\"Configure which WSL 2 distros you want to access Docker from.\"",
+      "dest": "children:\"配置要從中訪問 Docker 的 WSL 2 發行版。\""
+    },
+    {
+      "src": "label:\"Enable integration with my default WSL distro\"",
+      "dest": "label:\"啟用與我的預設 WSL 發行版的整合\""
+    },
+    {
+      "src": "You don't have any WSL 2 distros installed. Please convert a WSL 1 distro to WSL 2, or install a new distro and it will appear here.",
+      "dest": "未安裝任何 WSL2 發行版。請將 WSL1 發行版轉換為 WSL2 ，或安裝新的發行版，它將在此處顯示。"
+    },
+    {
+      "src": "children:\"Refetch distros\"",
+      "dest": "children:\"Refetch 發行版\""
+    },
+    {
+      "src": "Configure the Docker daemon by typing a json Docker daemon",
+      "dest": "透過鍵入 json Docker 守護程式配置檔案來配置 Docker 守護程式"
+    },
+    {
+      "src": "children:\"This can prevent Docker from starting. Use at your own risk.\"",
+      "dest": "children:\"這可能會阻止 Docker 啟動。使用風險自負。\""
+    },
+    {
+      "src": "children:\"Selected builder\"",
+      "dest": "children:\"選中的構建器\""
+    },
+    {
+      "src": "The default builder used when you start a build.",
+      "dest": "啟動構建時使用的預設構建器。"
+    },
+    {
+      "src": "children:\"Available builders\"",
+      "dest": "children:\"可用的構建器\""
+    },
+    {
+      "src": "Inspect and manage your builders.",
+      "dest": "檢查和管理您的構建器。"
+    },
+    {
+      "src": "label:\"Show only my builds\"",
+      "dest": "label:\"僅顯示我的構建\""
+    },
+    {
+      "src": "\"Enable Kubernetes\"",
+      "dest": "\"啟用 Kubernetes\""
+    },
+    {
+      "src": "children:\"Start a Kubernetes single or multi-node cluster when starting Docker Desktop.\"",
+      "dest": "children:\"啟動 Docker Desktop 時啟動 Kubernetes 單節點或多節點叢集。\""
+    },
+    {
+      "src": "label:\"Show system containers (advanced)\"",
+      "dest": "label:\"顯示系統容器（高階）\""
+    },
+    {
+      "src": "children:\"Show Kubernetes internal containers when using Docker commands.\"",
+      "dest": "children:\"使用 Docker 命令時顯示 Kubernetes 內部容器。\""
+    },
+    {
+      "src": "children:\"Reset Kubernetes Cluster\"",
+      "dest": "children:\"重置 Kubernetes 叢集\""
+    },
+    {
+      "src": "children:\"All stacks and Kubernetes resources will be deleted.\"",
+      "dest": "children:\"所有堆疊和 Kubernetes 資源都將被刪除。\""
+    },
+    {
+      "src": "children:\"Release notes\"",
+      "dest": "children:\"發行說明\""
+    },
+    {
+      "src": "children:\"Check for updates\"",
+      "dest": "children:\"檢查更新\""
+    },
+    {
+      "src": "children:\"Preferences\"",
+      "dest": "children:\"首選項\""
+    },
+    {
+      "src": "label:\"Automatically check for updates\"",
+      "dest": "label:\"自動檢查更新\""
+    },
+    {
+      "src": "label:\"Always download updates\"",
+      "dest": "label:\"始終下載更新\""
+    },
+    {
+      "src": "children:\"Automatically download new updates in background.\"",
+      "dest": "children:\"在後臺自動下載新的更新。\""
+    },
+    {
+      "src": "Set your notification preferences for Docker Desktop.",
+      "dest": "設定 Docker Desktop 的通知首選項。"
+    },
+    {
+      "src": "children:\"You'll always receive error notifications and notifications about new Docker Desktop releases and updates.\"",
+      "dest": "children:\"您將始終收到有關新 Docker Desktop 版本和更新的通知和錯誤通知。\""
+    },
+    {
+      "src": "label:\"Status updates on tasks and processes\"",
+      "dest": "label:\"任務和流程的狀態更新\""
+    },
+    {
+      "src": "label:\"Recommendations from Docker\"",
+      "dest": "label:\"來自 Docker 的建議\""
+    },
+    {
+      "src": "label:\"Docker announcements\"",
+      "dest": "label:\"Docker 公告\""
+    },
+    {
+      "src": "label:\"Docker surveys\"",
+      "dest": "label:\"Docker 調查\""
+    },
+    {
+      "src": "title:\"What is a container?\"",
+      "dest": "title:\"什麼是容器？\""
+    },
+    {
+      "src": "title:\"How do I run a container?\"",
+      "dest": "title:\"如何執行容器？\""
+    },
+    {
+      "src": "title:\"Run Docker Hub images\"",
+      "dest": "title:\"執行 Docker Hub 映象\""
+    },
+    {
+      "src": "title:\"Multi-container applications\"",
+      "dest": "title:\"多容器應用程式\""
+    },
+    {
+      "src": "title:\"Persist your data between containers\"",
+      "dest": "title:\"在容器之間保留資料\""
+    },
+    {
+      "src": "primary:\"Restart Docker Desktop\",secondary:\"All containers and settings are preserved.\"",
+      "dest": "primary:\"重啟 Docker Desktop\",secondary:\"將保留所有容器和設定。\""
+    },
+    {
+      "src": "variant:\"outlined\",children:\"Restart\"",
+      "dest": "variant:\"outlined\",children:\"重啟\""
+    },
+    {
+      "src": "primary:\"Support\",secondary:\"Get help with Docker Desktop.\"",
+      "dest": "primary:\"支援\",secondary:\"獲取有關 Docker Desktop 的幫助。\""
+    },
+    {
+      "src": "children:\"Get support\"",
+      "dest": "children:\"獲取支援\""
+    },
+    {
+      "src": "primary:\"Reset Kubernetes cluster\",secondary:\"All stacks and Kubernetes resources are deleted.\"",
+      "dest": "primary:\"重置 Kubernetes 叢集\",secondary:\"所有堆疊和 Kubernetes 資源都將被刪除。\""
+    },
+    {
+      "src": "children:\"Reset Kubernetes cluster\"",
+      "dest": "children:\"重置 Kubernetes 叢集\""
+    },
+    {
+      "src": "primary:\"Clean / Purge data\",secondary:\"Data selected is removed.\"",
+      "dest": "primary:\"清理/清除資料\",secondary:\"所選資料將被刪除。\""
+    },
+    {
+      "src": "children:\"Clean / Purge data\"",
+      "dest": "children:\"清理/清除資料\""
+    },
+    {
+      "src": "primary:\"Reset to factory defaults\",secondary:\"All settings and data will be removed.\"",
+      "dest": "primary:\"重置為出廠預設設定\",secondary:\"所有設定和資料都將被刪除。\""
+    },
+    {
+      "src": "children:\"Reset to factory defaults\"",
+      "dest": "children:\"重置為出廠預設設定\""
+    },
+    {
+      "src": "\"Settings...\":\"Change settings\"",
+      "dest": "\"設定...\":\"修改設定\""
+    },
+    {
+      "src": "label:\"Check for updates\"",
+      "dest": "label:\"檢查更新\""
+    },
+    {
+      "src": "\"Troubleshoot\"",
+      "dest": "\"故障排除\""
+    },
+    {
+      "src": "label:\"About Docker Desktop\"",
+      "dest": "label:\"關於 Docker Desktop\""
+    },
+    {
+      "src": "label:\"Admin Console\",secondary:\"Manage users, control access, & set policies.\"",
+      "dest": "label:\"管理控制檯\",secondary:\"管理使用者、控制訪問和設定策略。\""
+    },
+    {
+      "src": "label:\"Docker Hub\",secondary:\"Find and share images with your team.\"",
+      "dest": "label:\"Docker Hub\",secondary:\"查詢並與您的團隊共享映象。\""
+    },
+    {
+      "src": "\"Secure your supply chain at every level.\"",
+      "dest": "\"在每個層級保護您的供應鏈。\""
+    },
+    {
+      "src": "label:\"Docker Build Cloud\",secondary:\"Speed up your Docker Builds.\"",
+      "dest": "label:\"Docker 構建雲\",secondary:\"加速您的 Docker 構建。\""
+    },
+    {
+      "src": "label:\"Community Forums\",secondary:\"Get help from the community.\"",
+      "dest": "label:\"社群論壇\",secondary:\"從社群獲得幫助。\""
+    },
+    {
+      "src": "label:\"System Status\",secondary:\"Check the status of Docker services.\"",
+      "dest": "label:\"系統狀態\",secondary:\"檢查 Docker 服務狀態。\""
+    },
+    {
+      "src": "label:\"Docs\",secondary:\"Learn how to use Docker.\"",
+      "dest": "label:\"文件\",secondary:\"學習如何使用 Docker。\""
+    },
+    {
+      "src": "label:\"Kubernetes Context\"",
+      "dest": "label:\"Kubernetes 上下文\""
+    },
+    {
+      "src": "label:\"Context\"",
+      "dest": "label:\"上下文\""
+    },
+    {
+      "src": "label:\"Give feedback\"",
+      "dest": "label:\"提供反饋\""
+    },
+    {
+      "src": "Go to the Dashboard",
+      "dest": "開啟面板"
+    },
+    {
+      "src": "label:\"Personal\"",
+      "dest": "label:\"個人版\""
+    },
+    {
+      "src": " Tier`",
+      "dest": "等級`"
+    },
+    {
+      "src": "label:\"Upgrade\"",
+      "dest": "label:\"升級\""
+    },
+    {
+      "src": "\"Account Settings\"",
+      "dest": "\"賬戶設定\""
+    },
+    {
+      "src": "\"Sign Out\"",
+      "dest": "\"登出\""
+    },
+    {
+      "src": "\"Starting\":\"Resume\"",
+      "dest": "\"啟動中\":\"恢復\""
+    },
+    {
+      "src": "label:\"Restart\"",
+      "dest": "label:\"重啟\""
+    },
+    {
+      "src": "return\"Resource Saver mode\"",
+      "dest": "return\"節能模式\""
+    },
+    {
+      "src": "return\"Updating\"",
+      "dest": "return\"升級中\""
+    },
+    {
+      "src": "\"status unknown\"",
+      "dest": "\"狀態未知\""
+    },
+    {
+      "src": "\"Start a container to exit this mode\"",
+      "dest": "\"啟動一個容器就可退出該模式\""
+    },
+    {
+      "src": "\"Quit Docker Desktop\"",
+      "dest": "\"退出 Docker Desktop\""
+    },
+    {
+      "src": "\"Docker Engine is paused\"",
+      "dest": "\"Docker Engine 已暫停\""
+    },
+    {
+      "src": "\"The current state of all your containers was saved in memory, and all processes are frozen.\"",
+      "dest": "\"所有容器的當前狀態都已儲存在記憶體中，所有程序都被凍結。\""
+    },
+    {
+      "src": "children:\"Resume\"",
+      "dest": "children:\"恢復\""
+    },
+    {
+      "src": "children:\"Sign in\"",
+      "dest": "children:\"登入\""
+    },
+    {
+      "src": "n=\"Sign in\"",
+      "dest": "n=\"登入\""
+    },
+    {
+      "src": "Sign in / Sign up",
+      "dest": "登入 / 註冊"
+    },
+    {
+      "src": "Running in Resource Saver mode",
+      "dest": "節能模式正在執行"
+    },
+    {
+      "src": "Docker Desktop failed to start",
+      "dest": "Docker Desktop 啟動失敗"
+    },
+    {
+      "src": "Docker Desktop is paused",
+      "dest": "Docker Desktop 已暫停"
+    },
+    {
+      "src": "Docker Desktop is blocked",
+      "dest": "Docker Desktop 已被阻"
+    },
+    {
+      "src": "Docker Desktop ${t}",
+      "dest": "Docker Desktop 執行中"
+    },
+    {
+      "src": "\"Docker Desktop paused\"",
+      "dest": "\"Docker Desktop 暫停中\""
+    },
+    {
+      "src": "\"Docker Desktop is running in Resource Saver mode\"",
+      "dest": "\"Docker Desktop 正在節能模式下執行\""
+    },
+    {
+      "src": "Kubernetes is running",
+      "dest": "Kubernetes 正在執行"
+    },
+    {
+      "src": "label:\"Documentation\"",
+      "dest": "label:\"文件\""
+    },
+    {
+      "src": "\"Pausing\":\"Pause\"",
+      "dest": "\"暫停中\":\"暫停\""
+    },
+    {
+      "src": "variant:\"h3\",children:\"General\"",
+      "dest": "variant:\"h3\",children:\"常規\""
+    },
+    {
+      "src": "variant:\"h3\",children:\"Docker Engine\"",
+      "dest": "variant:\"h3\",children:\"Docker 引擎\""
+    },
+    {
+      "src": "variant:\"h3\",children:\"Software updates\"",
+      "dest": "variant:\"h3\",children:\"軟體更新\""
+    },
+    {
+      "src": "label:\"Update and restart\"",
+      "dest": "label:\"升級並重啟\""
+    },
+    {
+      "src": "\"Restart\",\"Cancel\"",
+      "dest": "\"重啟\",\"取消\""
+    },
+    {
+      "src": "message:\"Restart Docker Desktop\"",
+      "dest": "message:\"重啟 Docker Desktop\""
+    },
+    {
+      "src": "return\"Downloading update…\"",
+      "dest": "return\"升級下載中…\""
+    },
+    {
+      "src": "return\"Update and restart\"",
+      "dest": "return\"升級並重啟\""
+    },
+    {
+      "src": "\"Starting ...\":\"Stopping ...\"",
+      "dest": "\"啟動 ...\":\"停止 ...\""
+    },
+    {
+      "src": "\"Apply\",a&&\" & restart\"",
+      "dest": "\"確認\",a&&\" & 重啟\""
+    },
+    {
+      "src": "children:\"Cancel\"",
+      "dest": "children:\"取消\""
+    },
+    {
+      "src": "children:\"Learn more\"",
+      "dest": "children:\"瞭解更多\""
+    },
+    {
+      "src": "children:\"Upgrade\"",
+      "dest": "children:\"升級訂閱\""
+    },
+    {
+      "src": "children:\"Give feedback\"",
+      "dest": "children:\"提供反饋\""
+    },
+    {
+      "src": "\"Give feedback\",",
+      "dest": "\"提供反饋\","
+    },
+    {
+      "src": "children:\"You're up to date\"",
+      "dest": "children:\"當前是最新版\""
+    },
+    {
+      "src": "return\"You're up to date\"",
+      "dest": "return\"當前是最新版\""
+    },
+    {
+      "src": "is currently the newest version available.",
+      "dest": "是當前可用的最新版本。"
+    },
+    {
+      "src": "\"Search for images, containers, volumes, extensions and more...\"",
+      "dest": "\"搜尋映象，容器，卷櫃，擴充套件以及更多...\""
+    },
+    {
+      "src": "label:\"Beta\"",
+      "dest": "label:\"測試\""
+    },
+    {
+      "src": "title:\"Terminal\"",
+      "dest": "title:\"終端\""
+    },
+    {
+      "src": "children:\"Terminal\"",
+      "dest": "children:\"終端\""
+    },
+    {
+      "src": "`Verifying credentials for",
+      "dest": "`正在驗證郵箱"
+    },
+    {
+      "src": "\"Processing login data...\"",
+      "dest": "\"處理登入資料...\""
+    },
+    {
+      "src": "`You're now signed in as",
+      "dest": "`你現在登入為"
+    },
+    {
+      "src": "label:\"Search\"",
+      "dest": "label:\"搜尋\""
+    },
+    {
+      "src": "children:\"Recent searches\"",
+      "dest": "children:\"最近搜尋\""
+    },
+    {
+      "src": "children:\"Suggested\"",
+      "dest": "children:\"推薦\""
+    },
+    {
+      "src": "i=\"Image\"",
+      "dest": "i=\"映象\""
+    },
+    {
+      "src": "i=\"Extension\"",
+      "dest": "i=\"擴充套件\""
+    },
+    {
+      "src": "i=\"Docs\"",
+      "dest": "i=\"文件\""
+    },
+    {
+      "src": "\"You are signed out\"",
+      "dest": "\"你已經登出\""
+    },
+    {
+      "src": "\"You must initialize pass before logging in to Docker Desktop\"",
+      "dest": "\"登入之前必須初始化密碼\""
+    },
+    {
+      "src": "\"Sign in to share images and collaborate with your team\"",
+      "dest": "\"登入後可以共享映象並進行團隊協作\""
+    },
+    {
+      "src": "\"To view results from your remote repositories on Hub, sign in.\"",
+      "dest": "\"要檢視中心伺服器遠端儲存庫的結果，請先登入。\""
+    },
+    {
+      "src": "\"Sign in\",",
+      "dest": "\"登入\","
+    },
+    {
+      "src": "label:\"Install\"",
+      "dest": "label:\"安裝\""
+    },
+    {
+      "src": "children:\"Install\"",
+      "dest": "children:\"安裝\""
+    },
+    {
+      "src": "text:\"Install\"",
+      "dest": "text:\"安裝\""
+    },
+    {
+      "src": "children:\"Delete\"",
+      "dest": "children:\"刪除\""
+    },
+    {
+      "src": "children:\"Notifications\"",
+      "dest": "children:\"通知\""
+    },
+    {
+      "src": "children:\"Dismiss all\"",
+      "dest": "children:\"全部清除\""
+    },
+    {
+      "src": "\"Just now\"",
+      "dest": "\"剛才\""
+    },
+    {
+      "src": "\"less than a minute ago\"",
+      "dest": "\"一分鐘之前\""
+    },
+    {
+      "src": "minutes ago`",
+      "dest": "分鐘之前`"
+    },
+    {
+      "src": "title:\"Starting the Docker Engine...\"",
+      "dest": "title:\"Docker 引擎啟動中...\""
+    },
+    {
+      "src": "Use the WSL 2 based engine",
+      "dest": "使用基於 WSL 2 的引擎"
+    },
+    {
+      "src": "\"WSL 2 provides better performance than the Hyper-V backend. \"",
+      "dest": "\"WSL 2 提供了比 Hyper-V 後端更好的效能。\""
+    },
+    {
+      "src": "title:\"Engine total memory usage. This includes containers plus overheads.\"",
+      "dest": "title:\"引擎記憶體佔用。 包含容器佔用和其他間接佔用。\""
+    },
+    {
+      "src": "title:\"Engine total CPU usage. This includes containers plus overheads.\"",
+      "dest": "title:\"引擎 CPU 佔用。 包含容器佔用和其他間接佔用。\""
+    },
+    {
+      "src": "title:`Engine total disk usage. This includes containers plus overheads. Disk ${void 0===v?\"--.-- GB\":At(vt(v.availableBytes))} avail. of ${void 0===v?\"--.-- GB\":At(vt(v.totalBytes))}`",
+      "dest": "title:`引擎磁碟佔用。包含容器佔用和其他間接佔用。 磁碟 ${void 0===v?\"--.-- GB\":At(vt(v.availableBytes))} 可用。 共 ${void 0===v?\"--.-- GB\":At(vt(v.totalBytes))}`"
+    },
+    {
+      "src": "title:\"Engine disk utilization. This includes container data, images, builds, etc.\"",
+      "dest": "title:\"引擎磁碟佔用。包含容器資料，映象，構建等。\""
+    },
+    {
+      "src": "children:[\"The Extensions Marketplace is managed by your organization. See\"",
+      "dest": "children:[\"擴充套件市場由您的組織管理。請參見\""
+    },
+    {
+      "src": "children:\"Docker Engine is the underlying technology that runs containers\"",
+      "dest": "children:\"Docker 引擎是執行容器的底層技術\""
+    },
+    {
+      "src": "label:\"Enable host networking\"",
+      "dest": "label:\"啟用主機網路（Host）\""
+    },
+    {
+      "src": "label:\"Docker subnet\"",
+      "dest": "label:\"Docker 子網\""
+    },
+    {
+      "src": "children:\"Host networking allows containers that are started with --net=host to use localhost to connect to TCP and UDP services on the host. It will automatically allow software on the host to use localhost to connect to TCP and UDP services in the container. Sign in required.\"",
+      "dest": "children:\"主機網路允許以 --net=host 啟動的容器使用 localhost 連線到主機上的 TCP 和 UDP 服務。它將自動允許主機上的軟體使用 localhost 連線到容器中的 TCP 和 UDP 服務。需要登入。\""
+    },
+    {
+      "src": "children:\"Host networking allows containers that are started with --net=host to use localhost to connect to TCP and UDP services on the host. It will automatically allow software on the host to use localhost to connect to TCP and UDP services in the container.\"",
+      "dest": "children:\"主機網路允許以 --net=host 啟動的容器使用 localhost 連線到主機上的 TCP 和 UDP 服務。它將自動允許主機上的軟體使用 localhost 連線到容器中的 TCP 和 UDP 服務。\""
+    },
+    {
+      "src": "children:\"Enable integration with additional distros:\"",
+      "dest": "children:\"啟用與其他發行版的整合：\""
+    },
+    {
+      "src": "children:\"Start a Kubernetes single-node cluster when starting Docker Desktop.\"",
+      "dest": "children:\"啟動 Docker Desktop 時啟動 Kubernetes 單節點叢集。\""
+    },
+    {
+      "src": "\"Beta features can be discontinued without notice.\"",
+      "dest": "\"Beat 功能可能在沒有通知的情況下停用。\""
+    },
+    {
+      "src": "children:\"Beta features are initial releases of potential future features. Users who participate in our beta programs have the opportunity to validate and provide feedback on future functionality. This helps us focus our efforts on what provides the most value to our users.\"",
+      "dest": "children:\"Beta 功能是潛在的未來功能的初始版本。參與我們 beta 計劃的使用者有機會驗證並提供有關未來功能的反饋。這有助於我們將精力集中為使用者提供最大價值。\""
+    },
+    {
+      "src": "\"Enable Wasm, requires the\"",
+      "dest": "\"啟用 Wasm，需要\""
+    },
+    {
+      "src": "children:\"containerd image store\"",
+      "dest": "children:\"容器映象儲存\""
+    },
+    {
+      "src": "\"Installs runtimes that lets you run\"",
+      "dest": "\"安裝執行時以執行\""
+    },
+    {
+      "src": "children:\"Wasm workloads\"",
+      "dest": "children:\"Wasm 工作負載\""
+    },
+    {
+      "src": "\"Turn on Dev Environments\"",
+      "dest": "\"開啟開發環境\""
+    },
+    {
+      "src": "\"Display the Dev Environments view in the Docker Dashboard.\"",
+      "dest": "\"在 Docker 面板中顯示開發環境檢視。\""
+    },
+    {
+      "src": "\"Check back for more features soon, or sign up for our\"",
+      "dest": "\"敬請期待，更多功能即將上線，或註冊我們的\""
+    },
+    {
+      "src": "\"Experimental features can be discontinued without notice.\"",
+      "dest": "\"實驗性功能可能在沒有通知的情況下停用。\""
+    },
+    {
+      "src": "\"In each release, we may add features that we are currently experimenting with. These features are in the early stages of the product development lifecycle. This allows us to get early feedback and adjust the features as we work on them, so that we create experiences that our users love. If you turn this off, you lose access to experimental features.\"",
+      "dest": "\"在每個版本中，我們可能會新增一些實驗性功能。這些功能處於產品開發生命週期的早期階段，這使我們能夠儘早獲得反饋並調整功能，以便我們創造使用者喜歡的體驗。如果關閉此功能，則無法訪問實驗功能。\""
+    },
+    {
+      "src": "\"Access experimental features\"",
+      "dest": "\"訪問實驗性功能\""
+    },
+    {
+      "src": "\"Manage Synchronized file shares with Compose\"",
+      "dest": "\"使用 Compose 管理同步的檔案共享\""
+    },
+    {
+      "src": "\"Compose automatically uses\"",
+      "dest": "\"Compose 自動使用\""
+    },
+    {
+      "src": "\"for bind mounts in Compose projects.\"",
+      "dest": "\"用於 Compose 專案中的繫結掛載。\""
+    },
+    {
+      "src": "\"Enable Compose Bridge command line\"",
+      "dest": "\"啟用 Compose Bridge 命令列\""
+    },
+    {
+      "src": "\" Easily convert your Compose configuration to Kubernetes resources\"",
+      "dest": "\"將您的 Compose 配置輕鬆轉換為 Kubernetes 資源\""
+    },
+    {
+      "src": "\"Rows per page:\"",
+      "dest": "\"每頁條數:\""
+    },
+    {
+      "src": "\"Repositories per page\"",
+      "dest": "\"每頁儲存庫數:\""
+    },
+    {
+      "src": "\"Want to use Docker Scout on your remote repositories?\"",
+      "dest": "\"想要在遠端儲存庫上使用 Docker 監控?\""
+    },
+    {
+      "src": "\"How to access Advanced image analysis\"",
+      "dest": "\"如何訪問高階映象分析\""
+    },
+    {
+      "src": "\"From the Images view, select an image to view its details\"",
+      "dest": "\"從映象頁面，選擇一個映象以檢視其詳細資訊\""
+    },
+    {
+      "src": "\"Find out about CVEs that are affecting your packages\"",
+      "dest": "\"瞭解影響您的軟體包的漏洞\""
+    },
+    {
+      "src": "\"Explore recommended fixes to reduce your vulnerability count\"",
+      "dest": "\"探索建議的修復程式以減少漏洞數量\""
+    },
+    {
+      "src": "\"Find out if your base images are Docker Official Images and view the number of packages contained within them \"",
+      "dest": "\"瞭解您的基本映象是否為 Docker 官方映像，並檢視其中包含的軟體包數量\""
+    },
+    {
+      "src": "\"Use the\"",
+      "dest": "\"使用\""
+    },
+    {
+      "src": "\"to analyze images and display vulnerabilities from your terminal.\"",
+      "dest": "\"分析映象並顯示來自終端的漏洞。\""
+    },
+    {
+      "src": "\"Learn more about Docker Scout\"",
+      "dest": "\"瞭解有關監控的更多資訊。\""
+    },
+    {
+      "src": "\"You can explore the following documentation for details about Docker Scout:\"",
+      "dest": "\"您可以瀏覽以下文件，瞭解有關監控的詳細資訊:\""
+    },
+    {
+      "src": "\"Can't find what you're looking for?\"",
+      "dest": "\"找不到你要的？\""
+    },
+    {
+      "src": "children:\"Request an extension\"",
+      "dest": "children:\"請求擴充套件\""
+    },
+    {
+      "src": "children:\"Create an extension\"",
+      "dest": "children:\"建立擴充套件\""
+    },
+    {
+      "src": "children:\"to open\"",
+      "dest": "children:\"開啟\""
+    },
+    {
+      "src": "children:\"to navigate\"",
+      "dest": "children:\"導航\""
+    },
+    {
+      "src": "children:\"to close\"",
+      "dest": "children:\"關閉\""
+    },
+    {
+      "src": "children:\"for more results\"",
+      "dest": "children:\"更多結果\""
+    },
+    {
+      "src": "children:`Last refresh: ${l}`",
+      "dest": "children:`上次重新整理: ${l}`"
+    },
+    {
+      "src": "\"View container usage\"",
+      "dest": "\"檢視容器使用情況\""
+    },
+    {
+      "src": "\"View packages and CVEs\"",
+      "dest": "\"檢視軟體包和漏洞\""
+    },
+    {
+      "src": "\"Copied to clipboard\":\"Copy docker run\"",
+      "dest": "\"已複製到剪貼簿\":\"複製執行命令\""
+    },
+    {
+      "src": "\"Open in terminal\"",
+      "dest": "\"在終端中開啟\""
+    },
+    {
+      "src": "\"Push to Docker Hub\"",
+      "dest": "\"推送到 Docker Hub\""
+    },
+    {
+      "src": "\"Show image actions\"",
+      "dest": "\"顯示映象操作\""
+    },
+    {
+      "src": "title:\"Filters\"",
+      "dest": "title:\"過濾器\""
+    },
+    {
+      "src": "inUse:\"In use\",unused:\"Unused\",dangling:\"Dangling\"",
+      "dest": "inUse:\"使用中\",unused:\"未使用\",dangling:\"懸空\""
+    },
+    {
+      "src": "\"No recommendation available at this time.\"",
+      "dest": "\"目前沒有可用的建議。\""
+    },
+    {
+      "src": "\"This image has not been analyzed\"",
+      "dest": "\"此映象尚未分析。\""
+    },
+    {
+      "src": "\"You can use Docker Scout to analyze local images and list its vulnerabilities.\"",
+      "dest": "\"您可以使用監控分析本地映像並列出其漏洞。\""
+    },
+    {
+      "src": "\"Run a new container\"",
+      "dest": "\"執行新容器\""
+    },
+    {
+      "src": "\"Optional settings\"",
+      "dest": "\"可選設定\""
+    },
+    {
+      "src": "\"A random name is generated if you do not provide one.\"",
+      "dest": "\"如果不提供名稱，則會生成一個隨機名稱。\""
+    },
+    {
+      "src": "\"Enter “0” to assign randomly generated host ports.\"",
+      "dest": "\"輸入“0” 以分配隨機的主機埠。\""
+    },
+    {
+      "src": "\"Environment variables\"",
+      "dest": "\"環境變數\""
+    },
+    {
+      "src": "\"% of available CPU currently in use by containers. For example, with 4 available CPUs, the CPU usage can be up to 400%. Note that Docker will use some of the remaining CPU for system services like networking.\"",
+      "dest": "\"容器當前的 CPU 佔用。例如，在4個可用 CPU 的情況下，CPU 使用率可高達 400%。請注意，Docker 將使用一些剩餘的 CPU 用於系統服務，如網路。\""
+    },
+    {
+      "src": "\"Total amount of memory consumed by running container processes. Note that Docker will use available free memory for caching but this cache will be released when memory is needed by containers.\"",
+      "dest": "\"執行容器程序的記憶體佔用。請注意，Docker 將使用一些空閒記憶體進行快取，但是當容器需要時，此快取將被釋放。\""
+    },
+    {
+      "src": "\"Advanced image analysis can be accessed by viewing any of the images on the\"",
+      "dest": "\"高階映象分析可以透過查映象檢視上的任何影象來訪問\""
+    },
+    {
+      "src": "\"Sort by ASC\"",
+      "dest": "\"升序排列\""
+    },
+    {
+      "src": "\"Sort by DESC\"",
+      "dest": "\"降序排列\""
+    },
+    {
+      "src": "\"Pin to left\"",
+      "dest": "\"固定到左側\""
+    },
+    {
+      "src": "\"Pin to right\"",
+      "dest": "\"固定到右側\""
+    },
+    {
+      "src": "\"Unpin\"",
+      "dest": "\"取消固定\""
+    },
+    {
+      "src": "\"Hide column\"",
+      "dest": "\"隱藏列\""
+    },
+    {
+      "src": "\"Manage columns\"",
+      "dest": "\"管理列\""
+    },
+    {
+      "src": "\"Storage limit\"",
+      "dest": "\"儲存限制\""
+    },
+    {
+      "src": "\"Full history supported\":\"History not supported\"",
+      "dest": "\"支援完整歷史記錄\":\"不支援歷史記錄\""
+    },
+    {
+      "src": "\"Supported platforms\"",
+      "dest": "\"支援的平臺\""
+    },
+    {
+      "src": "\"Multi-platform ready\":\"Single platform\"",
+      "dest": "\"多平臺\":\"單平臺\""
+    },
+    {
+      "src": "\"Advanced Information\"",
+      "dest": "\"高階資訊\""
+    },
+    {
+      "src": "\"Delete the following data set(s)\"",
+      "dest": "\"刪除以下資料集\""
+    },
+    {
+      "src": "\"Reset Docker Desktop to factory defaults\"",
+      "dest": "\"將 Docker Desktop 重置為出廠預設設定\""
+    },
+    {
+      "src": "\"A factory reset destroys all Docker containers, images and volumes local to the machine, and restores the application to its original state, as when it was first installed.\"",
+      "dest": "\"恢復出廠設定會破壞機器本地的所有 Docker 容器、映象和卷，並將應用程式恢復到最初安裝時的原始狀態。\""
+    },
+    {
+      "src": "children:\"Customize terminal appearance\"",
+      "dest": "children:\"自定義終端外觀\""
+    },
+    {
+      "src": "children:\"You'll always receive notifications about zero-day vulnerabilities\"",
+      "dest": "children:\"您將始終收到有關零日漏洞的通知\""
+    },
+    {
+      "src": "children:\"Delivery preferences\"",
+      "dest": "children:\"通知設定\""
+    },
+    {
+      "src": "label:\"Notification pop-ups\"",
+      "dest": "label:\"應用內通知\""
+    },
+    {
+      "src": "children:\"This will send you notifications when you are in Docker Desktop.\"",
+      "dest": "children:\"向您傳送應用中通知。\""
+    },
+    {
+      "src": "label:\"OS notifications\"",
+      "dest": "label:\"系統通知\""
+    },
+    {
+      "src": "children:\"This will send you OS notifications when Docker Desktop is running on your computer.\"",
+      "dest": "children:\"向您傳送作業系統通知。（Docker Desktop 需要保持執行）\""
+    },
+    {
+      "src": "children:\"Other notification options\"",
+      "dest": "children:\"其他通知選項\""
+    },
+    {
+      "src": "content:\"Interact with your host machine and execute commands directly from Docker Desktop\"",
+      "dest": "content:\"從 Docker Desktop 中直接與主機互動並執行命令\""
+    },
+    {
+      "src": "description:\"View all your running containers and applications.\"",
+      "dest": "description:\"檢視所有正在執行的容器和應用程式。\""
+    },
+    {
+      "src": "description:\"View and manage your local and Docker Hub images.\"",
+      "dest": "description:\"檢視和管理本地和 Docker Hub 映象。\""
+    },
+    {
+      "src": "label:\"Hub repositories\"",
+      "dest": "label:\"Hub 倉庫\""
+    },
+    {
+      "src": "description:\"Manage your volumes, view usage, and inspect their contents.\"",
+      "dest": "description:\"管理卷櫃，檢視使用情況並檢查其內容。\""
+    },
+    {
+      "src": "\"Engine running\"",
+      "dest": "\"引擎執行中\""
+    },
+    {
+      "src": "Enable Docker Model Runner",
+      "dest": "啟用 Docker 模型執行器"
+    },
+    {
+      "src": "Enable host-side TCP support",
+      "dest": "啟用主機端 TCP 支援"
+    },
+    {
+      "src": "Enable GPU-backed inference",
+      "dest": "啟用 GPU後端 推理"
+    },
+    {
+      "src": "Only allow extensions distributed through the Docker Marketplace",
+      "dest": "只允許透過 Docker 市場分發的擴充套件"
+    },
+    {
+      "src": "Configure which types of notifications you'll receive inside Docker Desktop.",
+      "dest": "配置您將在 Docker Desktop 中接收的通知型別。"
+    },
+    {
+      "src": "No requests found",
+      "dest": "沒有找到任何請求"
+    }
+  ]
+}
